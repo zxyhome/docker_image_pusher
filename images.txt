@@ -3,3 +3,4 @@ haroldli/xiaoya-tvbox
 moelin/1panel
 wbsu2003/radishes
 chishin/nginx-proxy-manager-zh:latest
+jc21/nginx-proxy-manager
